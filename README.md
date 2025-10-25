@@ -26,13 +26,13 @@ I’m currently working WEB Development Full-Stack
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smanrrique&show_icons=true&theme=dark&locale=en&layout=compact" alt="smanrrique" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=smanrrique&show_icons=true&theme=dark&locale=en" alt="smanrrique" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smanrrique&theme=dark" alt="smanrrique" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
@@ -40,4 +40,4 @@ I’m currently working WEB Development Full-Stack
 <a href="https://www.linkedin.com/in/sebastian-manrique-zabala-a87aaa262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smanrrique&label=Profile%20views&color=0e75b6&style=flat" alt="smanrrique" /> </p>
